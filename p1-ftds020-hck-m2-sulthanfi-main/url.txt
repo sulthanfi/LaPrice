@@ -1,2 +1,0 @@
-https://huggingface.co/spaces/fachrytansool/laptop_price_prediction
-https://www.kaggle.com/datasets/owm4096/laptop-prices/data
